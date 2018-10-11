@@ -1,5 +1,5 @@
 # AVLAndBinaryTrees
-This is a project that I made in my Data Structures and Algorithms class. It goes through AVL trees and Binary Trees.
+This is a project that I made in my Data Structures and Algorithms class. The purpose of this project is to compare the times for insertion, deletion, and searching in both AVL and Binary trees.
 
 To Open Project: Open up PA7BonusPartKellyHerstine, then double click on PA7BonusPartKellyHerstine.sln.
 
